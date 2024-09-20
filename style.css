@@ -177,13 +177,15 @@ body::-webkit-scrollbar-thumb:hover{
 footer{
     text-align: center;
 }
+
 h5{
     font-size: 3vh;
     text-decoration: none;
     color: 898989;#
     font-weight: 600;
+    color: #5f5e5e;
 }
 a{
     text-decoration: none;
-    color: #898989;
+    color: #5f5e5e;
 }
