@@ -159,7 +159,7 @@ body::-webkit-scrollbar-thumb:hover{
     border-width: 5px;
     border-color: #2e2e2e;
     border-style: solid;
-    background-color: rgb(170, 183, 197);
+    background-color: rgb(196, 200, 204);
     
 
 }
@@ -187,5 +187,5 @@ h5{
 }
 a{
     text-decoration: none;
-    color: #5f5e5e;
+    color: #4e4e4e;
 }
