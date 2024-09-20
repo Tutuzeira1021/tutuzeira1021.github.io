@@ -99,7 +99,7 @@ body::-webkit-scrollbar{
     width: 12px;
 }
 body::-webkit-scrollbar-track{
-    background: transparent;
+    background: rgb(7, 8, 73);
 }
 body::-webkit-scrollbar-thumb{
     background-color: rgb(161, 161, 165);
@@ -185,7 +185,7 @@ h5{
     font-weight: 600;
     color: #5f5e5e;
 }
-a{
+footer, a{
     text-decoration: none;
     color: #4e4e4e;
 }
