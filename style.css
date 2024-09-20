@@ -1,0 +1,192 @@
+*{
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-family: "Inria Sans", sans-serif;
+    font-weight: 400;
+}
+#nav-bar, li{
+    display: inline-block;
+    text-align: center;
+}
+#nav-bar{
+    text-align: center;
+}
+a:hover{
+    color: #5c5b5b;
+    font-weight: 600;
+}
+#header{
+    background: url(https://www.comciencia.br/wp-content/uploads/2021/09/oceano2.jpg);
+    width: 100%;
+    text-align: center;
+    height: 90vh;
+    background-attachment: fixed;
+    background-size: cover;
+
+}
+#header, a{
+    padding-top: 2vh;
+    color: aliceblue;
+    font-size: 4vh;
+    
+}
+ul, li{
+    padding-top: 1vh;
+    padding-inline: 5vh;
+}
+body{
+    background-color: #2e2e2e;
+}
+.main-header{
+    align-content: center;
+    align-self: center;
+    align-items: center;
+    width: 100%;
+    position: absolute;
+    justify-content: center;
+    display: block;
+    font-family: "Ubuntu", sans-serif;
+    font-weight: 600;
+    font-style: normal;  
+}
+.main-header, .title{
+    align-content: center;
+    align-self: center;
+    align-items: center;
+    position: absolute;
+    width: 100%;
+    justify-content: center;
+    top: 45%;
+}
+.sobre-title{
+    color:  aliceblue;
+    font-weight: 600;
+}
+.home-body{
+    width: 100%;
+    color: aliceblue;
+}
+#sobre-sec, ul, li{
+ display: inline-block;
+}
+.title-sec1{
+    text-align: start;
+    align-content: start;
+    align-self: start;
+    align-items: start;
+    display: inline-block;
+}
+#sobre-sec{
+    color: aliceblue;
+}
+p{
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-family: "Inria Sans", sans-serif;
+    font-weight: 500;   
+}
+
+#sobre-box{
+    width: 80vh;
+    text-align: end;
+    align-items: end;
+    align-content: end;
+}
+body::-webkit-scrollbar{
+    border-radius: 10px;
+    width: 12px;
+}
+body::-webkit-scrollbar-track{
+    background: transparent;
+}
+body::-webkit-scrollbar-thumb{
+    background-color: rgb(161, 161, 165);
+    border-radius: 10px;
+}
+body::-webkit-scrollbar-thumb:hover{
+
+   background-color: rgb(105, 105, 105)
+}
+#sobre-sec{
+    height: 40vh;
+}
+.main-txt{
+    font-size: 20px;
+    text-align: justify;
+}
+.home-body{
+    width: 100%;
+}
+.sobre-title, .sobre-box{
+    display: inline-block;
+}
+.sobre-title{
+    align-self: center;
+    align-items: center;
+    align-content: center;
+}
+#download-shortcut{
+    height: 50vh;
+    background-color: rgb(196, 200, 204);
+    border-color: #5c5b5b;
+    border-style: solid;
+    align-self: center;
+    align-items: center;
+    align-content: center;
+    width: 100%;
+    text-align: center;
+}
+#btn-download{
+    color: #2e2e2e;
+    background-color: #2e2e2e;
+}
+#btn-download, a{
+    color: white;
+    font-weight: 550;
+    padding: 10px;
+    border-radius: 5px;
+    font-size: 3vh;
+    font-size: 6vh;
+    
+}
+#btn-download:hover{
+    color: #000000;
+    font-weight: 900;
+    padding: 5px;
+    border-radius: 5px;
+    border-width: 5px;
+    border-color: #2e2e2e;
+    border-style: solid;
+    background-color: rgb(170, 183, 197);
+    
+
+}
+#btn-download, a:hover{
+    color: #2e2e2e;
+    font-size: 6vh;
+    
+
+}
+.label-btn{
+    font-weight: 800;
+    color: #2e2e2e;
+    font-size: 8vh;
+}
+footer{
+    text-align: center;
+}
+h5{
+    font-size: 3vh;
+    text-decoration: none;
+    color: 898989;#
+    font-weight: 600;
+}
+a{
+    text-decoration: none;
+}
+.icon-phone{
+    width: 16;
+    height: 16;
+}
