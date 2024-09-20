@@ -15,7 +15,7 @@
 #nav-bar{
     text-align: center;
 }
-a:hover{
+nav-bar, li, a:hover{
     color: #5c5b5b;
     font-weight: 600;
 }
