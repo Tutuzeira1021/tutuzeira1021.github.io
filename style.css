@@ -5,6 +5,9 @@
     font-family: "Inria Sans", sans-serif;
     font-weight: 400;
 }
+#nav-bar, li, a{
+    color: aliceblue;
+}
 #nav-bar, li{
     display: inline-block;
     text-align: center;
