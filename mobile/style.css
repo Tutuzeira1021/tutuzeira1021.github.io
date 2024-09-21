@@ -10,6 +10,9 @@ body{
     background-color: #ececec;
     text-align: center;
 }
+.main-txt{
+    text-align: justify;
+}
 .title-sec1{
     text-align: start;
     align-content: start;
