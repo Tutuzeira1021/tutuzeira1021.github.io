@@ -5,6 +5,7 @@
     font-family: "Karla", sans-serif;
     font-optical-sizing: auto;
     font-style: normal;
+    text-align: center;
 }
 body{
     background-color: #ececec;
@@ -45,7 +46,7 @@ header{
     padding-bottom: 1.5vh;
 }
 a{
-    font-size: 5vw;
+    font-size: 50px;
 }
 .sobre-title{
     color:  rgb(41, 41, 41);
