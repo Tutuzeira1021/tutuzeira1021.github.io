@@ -24,7 +24,7 @@ body{
     color: white;
 }
 #sobre-box{
-    width: 100%;
+    width: 50%;
     text-align: end;
     align-items: end;
     align-content: end;
@@ -50,9 +50,6 @@ a{
 .sobre-title{
     color:  rgb(41, 41, 41);
     font-weight: 600;
-}
-#sobre-box{
-    width: 50%;
 }
 h5{
         font-size: 5vw;
