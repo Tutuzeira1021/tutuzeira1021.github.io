@@ -37,13 +37,13 @@ header{
     background-size: cover;
     height: 30vh;
     width: 100%;
-    font-size: 60px;
+    font-size: 40px;
 }
 #nav-bar, li{
     display: inline-block;
 }
 a{
-    font-size: 60px;
+    font-size: 40px;
 }
 .sobre-title{
     color:  rgb(41, 41, 41);
@@ -59,6 +59,7 @@ h5{
 a{
     text-decoration: none;
 }
+
 #footer{
     background-color: #2e2e2e;
     height: 35vh;
