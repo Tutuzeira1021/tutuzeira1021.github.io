@@ -15,10 +15,7 @@ body{
     text-align: justify;
 }
 .title-sec1{
-    text-align: start;
-    align-content: start;
-    align-self: start;
-    align-items: start;
+    text-align: center;
     display: inline-block;
 }
 #sobre-sec{
@@ -26,9 +23,7 @@ body{
 }
 #sobre-box{
     width: 90%;
-    text-align: end;
-    align-items: end;
-    align-content: end;
+    text-align: center;
 }
 header{
     text-align: center;
