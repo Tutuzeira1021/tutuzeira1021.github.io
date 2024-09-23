@@ -37,13 +37,13 @@ header{
     background-size: cover;
     height: 30vh;
     width: 100%;
-    font-size: 40px;
+    font-size: 60px;
 }
 #nav-bar, li{
     display: inline-block;
 }
 a{
-    font-size: 40px;
+    font-size: 60px;
 }
 .sobre-title{
     color:  rgb(41, 41, 41);
