@@ -19,7 +19,7 @@ body{
     display: inline-block;
 }
 #sobre-sec{
-    color: white;
+    color: #ffffff;
 }
 #sobre-box{
     width: 90%;
@@ -27,7 +27,7 @@ body{
 }
 header{
     text-align: center;
-    color: white;
+    color: #ffffff;
     background: url(https://www.comciencia.br/wp-content/uploads/2021/09/oceano2.jpg);
     background-size: cover;
     height: 30vh;
@@ -62,5 +62,5 @@ a{
     height: 35vh;
 }
 #baixar{
-    color: white;
+    color: #ffffff;
 }
