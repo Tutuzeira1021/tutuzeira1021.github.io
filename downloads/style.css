@@ -9,7 +9,7 @@ body{
     text-align: center;
 }
 h1{
-    font-size: 7vh;
+    font-size: 12px;
     font-weight: 600;
 }
 #nav, #nav-links, li{
@@ -23,8 +23,9 @@ a{
     padding: 15px;
     background-color: darkblue;
     border-radius: 5px;
-    font-size: 6vh;
+    font-size: 15px;
     color: white;
+    text-decoration: none;
 
 }
 a:hover{
